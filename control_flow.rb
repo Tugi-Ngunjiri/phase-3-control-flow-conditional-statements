@@ -48,4 +48,3 @@ def calculator(operation, num1, num2)
 end
 
 # calculator("+", 2, 3)
-
